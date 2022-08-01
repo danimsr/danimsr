@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @danimsr
-- 👀 Cursando desenvolvimento de sistemas (SENAI)
-- 🌱 Aprendendo conceitos básicos da tecnologia de informação
+- 👀 Formado em desenvolvimento de sistemas (SENAI)
 - 📫 https://www.linkedin.com/in/daniel-müller-rosa-03618120b/ ...
